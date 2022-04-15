@@ -4,13 +4,13 @@
 body{
     background-color: black;
 }
-.principal img{
+.principal-chamachurch img{
     height: 100px;
     width: 100px;
     margin: 20px auto;
     border-radius: 100%;
 }
-.principal {
+.principal-chamachurch {
     width: 100%;
     display: flex;
     align-items: center;
